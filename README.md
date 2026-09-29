@@ -1,1 +1,1 @@
-# curso-machine-learning
+# machine-learning-tmw
